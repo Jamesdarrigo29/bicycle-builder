@@ -20,6 +20,6 @@ Before you begin, be sure you have php installed on your machine.
    ```bash
    git clone https://github.com/Jamesdarrigo29/bicycle-builder
 
-2. cd into bicycle directory in command-line
+2. cd into bicycle-builder directory in command-line
 3. Run php BicycleCLI.php
 4. Have fun!
